@@ -8,17 +8,39 @@
 
 ### 👨‍💻 About Me
 
-- 🔭 I love building things that **help people and solve real-world problems**
-- ⚡ Passionate about **coding, electronics, and 3D printing**
-- 🌱 Always learning and improving my skills
+- 👋 Hi, I'm a **17-year-old maker from Israel**.
+- 🛠️ I work with **coding, electronics, and 3D printing**.
+- 🔭 I love building things that **solve real-world problems** and help people.
+- 🌱 Always learning and improving my skills.
 - 💬 Feel free to reach out — I'd love to hear your feedback and suggestions!
 
 ---
 
-### 🛠️ Technologies & Tools
+### 🚀 My Projects
+
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <b><a href="https://github.com/idoraz1/MacroKeyboard">MacroKeyboard</a></b><br/>
+      A custom 4-switch macro keyboard built to make copying, pasting, undo, and redo functions easy with one click. Built with the AMD & Hack Club partnership tutorial.<br/>
+      <i>Python</i>
+    </td>
+    <td width="50%">
+      <b><a href="https://github.com/idoraz1/MissilePAM">MissilePAM</a></b><br/>
+      Red Alerts map for Shabbat and daily monitoring.<br/>
+      <br/>
+      <i>HTML</i>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ My Skills
 
 <!-- שנה/הוסף לפי מה שאתה באמת משתמש בו -->
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
 
