@@ -26,7 +26,7 @@
 
 ### 📊 GitHub Stats
 
-![Ido's GitHub Stats](https://github-readme-stats.vercel.app/api?username=idoraz1&show_icons=true&theme=tokyonight)
+[![GitHub Streak](https://streak-stats.demolab.com?user=idoraz1&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
