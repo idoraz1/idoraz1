@@ -26,7 +26,7 @@
       <i>Python</i>
     </td>
     <td width="50%">
-      <b><a href="https://github.com/idoraz1/MissilePAM">MissilePAM</a></b><br/>
+      <b>MissilePAM</b><br/>
       Red Alerts map for Shabbat and daily monitoring.<br/>
       <br/>
       <i>HTML</i>
